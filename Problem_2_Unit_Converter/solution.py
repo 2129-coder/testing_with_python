@@ -12,4 +12,4 @@ elif choice == '2':
     celsius_result = (fahrenheit - 32) * 5/9
     print("The temperature in Celsius is: {celsius_result:.2f}°C")
 else:
-    print("Invalid choice.")
+    print("Invalid choice")
